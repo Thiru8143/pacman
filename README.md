@@ -1,4 +1,4 @@
-# Pac-Man Animation
+# Pac-Man 
 
 This project is a simple animation of a Pac-Man character moving back and forth across the screen. The Pac-Man image alternates between open and closed mouth, and it changes direction when hitting the screen's edges.
 
